@@ -70,7 +70,7 @@ header{
 
 }
 .b_wrapper{
-    background-image: url(images/home.jpg);
+    background-image: url(home.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
